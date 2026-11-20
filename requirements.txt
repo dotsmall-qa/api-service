@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg
+boto3
+azure-identity
